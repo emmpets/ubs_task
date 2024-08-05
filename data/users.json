@@ -1,0 +1,2232 @@
+[
+    {
+        "name": "User 82695",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.09
+            },
+            {
+                "type": "collecting",
+                "value": "a collection of all your old CDs, video games, and movies on your computer",
+                "threshold": 0.81
+            }
+        ]
+    },
+    {
+        "name": "User 97688",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.61
+            },
+            {
+                "type": "spirituality",
+                "value": "Religiously grounded, in nature or in a way connected to nature, the Buddha is actually a part of",
+                "threshold": 0.85
+            },
+            {
+                "type": "cooking",
+                "value": "\"The main food preparation is like this: \u00a0you need three pieces of bread",
+                "threshold": 0.3
+            }
+        ]
+    },
+    {
+        "name": "User 85249",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.37
+            },
+            {
+                "type": "spirituality",
+                "value": "we only have one point, and so I can only say as a religion that we only have one point -",
+                "threshold": 0.31
+            },
+            {
+                "type": "podcasts",
+                "value": "A good way to read a podcast's contents\u2014if it fits your tastes",
+                "threshold": 0.22
+            },
+            {
+                "type": "instrument",
+                "value": "MIRACLE",
+                "threshold": 0.83
+            },
+            {
+                "type": "finance",
+                "value": "The first step is not a transferable asset, but a transferable asset like some banks can be (especially",
+                "threshold": 0.23
+            }
+        ]
+    },
+    {
+        "name": "User 75419",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.26
+            },
+            {
+                "type": "movies",
+                "value": "How many hours does a day have to pass before a movie is shot? \u00a0How many hours of movie",
+                "threshold": 0.4
+            },
+            {
+                "type": "science",
+                "value": "In which the moon and the sun are literally linked",
+                "threshold": 0.87
+            }
+        ]
+    },
+    {
+        "name": "User 2783",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.02
+            },
+            {
+                "type": "politics",
+                "value": "Let the people of Texas vote their conscience",
+                "threshold": 0.92
+            }
+        ]
+    },
+    {
+        "name": "User 44809",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.81
+            },
+            {
+                "type": "crafting",
+                "value": "a simple recipe for a bottle made of 1,400 ml of vinegar",
+                "threshold": 0.88
+            },
+            {
+                "type": "spirituality",
+                "value": "I don't have this many dreams right now",
+                "threshold": 0.84
+            },
+            {
+                "type": "dance",
+                "value": "The perfect ball is used in an intense dance;\u00a0the ball is positioned on top of a tree while the",
+                "threshold": 0.63
+            }
+        ]
+    },
+    {
+        "name": "User 31857",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.15
+            },
+            {
+                "type": "food",
+                "value": "Chicken breast, pork shoulder, beef or chicken sausage, chicken stock, or other meat product or ingredients\nA",
+                "threshold": 0.5
+            }
+        ]
+    },
+    {
+        "name": "User 55737",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.14
+            },
+            {
+                "type": "photography",
+                "value": "(\n\u00a0(\n\u00a0\u00a0\u00a0The most popular and common photo ever taken, the picture below shows all of",
+                "threshold": 0.7
+            },
+            {
+                "type": "podcasts",
+                "value": "Do you like video podcasts and podcasts about politics? \u00a0Do you watch music videos and podcasts about sports?",
+                "threshold": 0.94
+            }
+        ]
+    },
+    {
+        "name": "User 86767",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.51
+            },
+            {
+                "type": "dance",
+                "value": "I'm happy with the level of comfort",
+                "threshold": 0.31
+            }
+        ]
+    },
+    {
+        "name": "User 3476",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.43
+            },
+            {
+                "type": "podcasts",
+                "value": "the new Star Wars Podcasts (as they are officially titled)",
+                "threshold": 0.27
+            },
+            {
+                "type": "politics",
+                "value": "What's the deal with a conservative-populist-voting electorate in 2016? How much of the",
+                "threshold": 0.73
+            },
+            {
+                "type": "dance",
+                "value": "a dance where you are the one who moves away from a person you just want to see",
+                "threshold": 0.15
+            }
+        ]
+    },
+    {
+        "name": "User 8339",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.78
+            },
+            {
+                "type": "volunteering",
+                "value": "-\u00a0If you work in a field where you have good training, you can help to create a positive environment",
+                "threshold": 0.03
+            },
+            {
+                "type": "photography",
+                "value": "The same is true in any photographic medium",
+                "threshold": 0.12
+            }
+        ]
+    },
+    {
+        "name": "User 28439",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.62
+            },
+            {
+                "type": "gaming",
+                "value": "We can see the use of high-resolution textures, textures that look good for both the original and the first",
+                "threshold": 0.32
+            }
+        ]
+    },
+    {
+        "name": "User 6573",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.2
+            },
+            {
+                "type": "health",
+                "value": "A man can live a normal long life \u00a0with enough protein and vitamins in his body, without overfeeding",
+                "threshold": 0.56
+            }
+        ]
+    },
+    {
+        "name": "User 95538",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.39
+            },
+            {
+                "type": "movies",
+                "value": "\u300d\n\u300cWhat is it now? You've made a video of a girl wearing a dress wearing a dress",
+                "threshold": 0.93
+            },
+            {
+                "type": "movies",
+                "value": "-\na story where you see a lot of the same old things about someone else",
+                "threshold": 0.98
+            }
+        ]
+    },
+    {
+        "name": "User 57311",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.94
+            },
+            {
+                "type": "technology",
+                "value": "a computer designed to be used by every American soldier and their families with their only possessions on it, without them",
+                "threshold": 0.1
+            },
+            {
+                "type": "movies",
+                "value": "a scene of the dog lying in the backyard and her little brother playing ping pong",
+                "threshold": 0.26
+            },
+            {
+                "type": "literature",
+                "value": "an introduction on the origins of the\u00a0 (I think the book is written by someone living in Texas because that",
+                "threshold": 0.87
+            },
+            {
+                "type": "finance",
+                "value": "A market that has not been affected by the financial crisis",
+                "threshold": 0.72
+            }
+        ]
+    },
+    {
+        "name": "User 2083",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.3
+            },
+            {
+                "type": "movies",
+                "value": "Cinematography \u00a0( \u00a0- http://en",
+                "threshold": 0.24
+            },
+            {
+                "type": "movies",
+                "value": "Crimson Thunder \u00a0and\u00a0 Dark Sky \u00a0were almost certainly written by people who actually read their",
+                "threshold": 0.24
+            }
+        ]
+    },
+    {
+        "name": "User 79679",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.17
+            },
+            {
+                "type": "collecting",
+                "value": "Making of a book (1) \u00a0selling book or recording (2) \u00a0creating an audio",
+                "threshold": 0.27
+            },
+            {
+                "type": "cooking",
+                "value": "Cupcake or Cupcake, or a plain, warm and fluffy cake",
+                "threshold": 0.38
+            },
+            {
+                "type": "spirituality",
+                "value": "the desire to find truth itself rather than its own destruction",
+                "threshold": 0.62
+            }
+        ]
+    },
+    {
+        "name": "User 52565",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.1
+            },
+            {
+                "type": "finance",
+                "value": "You could try to raise taxes but your only option to pay for them is to leave them",
+                "threshold": 0.12
+            },
+            {
+                "type": "movies",
+                "value": "An indie movie called \u00a0The Lost Cities \u00a0was very similar to this one",
+                "threshold": 0.71
+            },
+            {
+                "type": "hobby",
+                "value": "a big collection of little things (lots) that have a big effect on your life",
+                "threshold": 0.8
+            }
+        ]
+    },
+    {
+        "name": "User 32539",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.56
+            },
+            {
+                "type": "literature",
+                "value": "an analysis of a number of current and past publications that suggest an ongoing trend toward a post-modern culture in",
+                "threshold": 0.49
+            }
+        ]
+    },
+    {
+        "name": "User 79563",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.06
+            },
+            {
+                "type": "home improvement",
+                "value": "(a)\u00a0 (a) \u00a0 a\u00a0 'fitness centre or fitness centre'",
+                "threshold": 0.12
+            },
+            {
+                "type": "history",
+                "value": "When the Nazis invaded Poland, the Americans invaded Japan, and the Germans didn't invade Korea",
+                "threshold": 0.94
+            },
+            {
+                "type": "movies",
+                "value": "a lot more memorable, a lot more memorable",
+                "threshold": 0.56
+            }
+        ]
+    },
+    {
+        "name": "User 65037",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.38
+            },
+            {
+                "type": "dance",
+                "value": "Do not play it and have no idea who would do it, with your best hand and most unlikely partners",
+                "threshold": 0.83
+            },
+            {
+                "type": "writing",
+                "value": "If I have to write some non-linear text into a prose sentence, it doesn't make any sense when",
+                "threshold": 0.86
+            }
+        ]
+    },
+    {
+        "name": "User 26120",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.52
+            },
+            {
+                "type": "volunteering",
+                "value": "I wouldn't mind spending money for this project or making other stuff if you don't feel a need for one",
+                "threshold": 0.58
+            },
+            {
+                "type": "literature",
+                "value": "'The greatest number of human beings born into this place have passed away, and the only one capable of living",
+                "threshold": 0.33
+            },
+            {
+                "type": "dance",
+                "value": "Just think of an hour on the track",
+                "threshold": 0.21
+            },
+            {
+                "type": "fashion",
+                "value": "An original, realistic fashion",
+                "threshold": 0.26
+            }
+        ]
+    },
+    {
+        "name": "User 3713",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.39
+            },
+            {
+                "type": "podcasts",
+                "value": "- podcasts about politics, health and fitness, food and sport;\n- podcasts about other popular topics and the",
+                "threshold": 0.43
+            },
+            {
+                "type": "collecting",
+                "value": "\u00c2 \u00c2 \u00c2\n\nTheoretically, the ability to harvest wood with the help of a large tree",
+                "threshold": 0.13
+            }
+        ]
+    },
+    {
+        "name": "User 54861",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.99
+            },
+            {
+                "type": "instrument",
+                "value": "The laser can emit a \"sensor beam\" signal and could emit very light-sensitive wavelengths to the detector",
+                "threshold": 0.72
+            }
+        ]
+    },
+    {
+        "name": "User 83599",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.28
+            },
+            {
+                "type": "food",
+                "value": "it's just a regular diet which is basically a diet based on the above ingredients you already own",
+                "threshold": 0.59
+            },
+            {
+                "type": "podcasts",
+                "value": "* Podcasts that actually have content",
+                "threshold": 0.51
+            }
+        ]
+    },
+    {
+        "name": "User 68055",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.94
+            },
+            {
+                "type": "instrument",
+                "value": "\u3164\u314c\u315c\u315c\u315c\u315c)\u3160\ufffd",
+                "threshold": 0.14
+            },
+            {
+                "type": "home improvement",
+                "value": "adding an AC or a generator or a solar power system",
+                "threshold": 0.88
+            },
+            {
+                "type": "pets",
+                "value": "a pet that can walk, run, chew, sniff, be quiet and walk like a human",
+                "threshold": 0.7
+            }
+        ]
+    },
+    {
+        "name": "User 42070",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.65
+            },
+            {
+                "type": "home improvement",
+                "value": "A simple kitchen with a few items to put on your porch, one to make sure you always had enough",
+                "threshold": 0.66
+            }
+        ]
+    },
+    {
+        "name": "User 7627",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.09
+            },
+            {
+                "type": "dance",
+                "value": "Do whatever you want, so that it just moves your body forward",
+                "threshold": 0.92
+            },
+            {
+                "type": "volunteering",
+                "value": "If you wanted to help, you could volunteer with other people by either working with or taking over volunteer duties",
+                "threshold": 0.26
+            },
+            {
+                "type": "podcasts",
+                "value": "3 podcasts with a lot of depth (with interesting conversations, stories about stories and the various issues), an endless",
+                "threshold": 0.82
+            },
+            {
+                "type": "hobby",
+                "value": "- playing on your own virtual real estate",
+                "threshold": 0.01
+            }
+        ]
+    },
+    {
+        "name": "User 95763",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.5
+            },
+            {
+                "type": "travel",
+                "value": "a plane takes off, the weather begins to change and\u00a0the plane goes through the snow",
+                "threshold": 0.93
+            },
+            {
+                "type": "music",
+                "value": "[The song]\u00a0 was a song about the end of a long journey",
+                "threshold": 0.84
+            },
+            {
+                "type": "volunteering",
+                "value": "Do you want to stay at work after working longer hours to help your kids raise their IQ and get into college",
+                "threshold": 0.81
+            }
+        ]
+    },
+    {
+        "name": "User 84646",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.86
+            },
+            {
+                "type": "home improvement",
+                "value": "(a) the home improvement store selling a cheap $5-$7 home,\n(b)",
+                "threshold": 0.67
+            },
+            {
+                "type": "writing",
+                "value": "He'd love to write 'Rescue of the Fallen', which is so cool",
+                "threshold": 0.62
+            }
+        ]
+    },
+    {
+        "name": "User 84516",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.15
+            },
+            {
+                "type": "finance",
+                "value": "???\n\n$0\n\nInclude \"Selling off their assets\" in the \"Investment Opportunity\"",
+                "threshold": 0.72
+            },
+            {
+                "type": "collecting",
+                "value": "a \"game changer\" rather than a \"game hack\"",
+                "threshold": 0.91
+            },
+            {
+                "type": "theater",
+                "value": "I know how to play this game! \u00a0I'm sure you've done the same thing",
+                "threshold": 0.85
+            },
+            {
+                "type": "instrument",
+                "value": "\"It won't allow you to do everything you want to get out from under the hood of this device",
+                "threshold": 0.84
+            }
+        ]
+    },
+    {
+        "name": "User 21945",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.6
+            },
+            {
+                "type": "instrument",
+                "value": "the \"sparrow\"\u00a0that can be carried around in a car",
+                "threshold": 0.21
+            },
+            {
+                "type": "movies",
+                "value": "How many times have you seen a movie featuring someone you love who is so happy? You have your eyes glued",
+                "threshold": 0.97
+            },
+            {
+                "type": "gaming",
+                "value": "(a) a game featuring a world that is, at its core, a game of survival; (b",
+                "threshold": 0.71
+            }
+        ]
+    },
+    {
+        "name": "User 42536",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.86
+            },
+            {
+                "type": "fashion",
+                "value": "\"A woman's face",
+                "threshold": 0.38
+            },
+            {
+                "type": "dance",
+                "value": "you were only a child, not of that kind! \u00a0 What, I wonder? \u00a0 Well, I mean",
+                "threshold": 0.04
+            },
+            {
+                "type": "theater",
+                "value": "a staged drama or a novel or novel with a real story - or novel or novel with a real place",
+                "threshold": 0.66
+            }
+        ]
+    },
+    {
+        "name": "User 10942",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.25
+            },
+            {
+                "type": "finance",
+                "value": "* \u00a0Use an asset allocation strategy (or market cap) in order to provide a large portion of your",
+                "threshold": 0.66
+            },
+            {
+                "type": "comics",
+                "value": "\"What would we do with a comic book that had been created? \u00a0Did we use other stuff,",
+                "threshold": 0.08
+            },
+            {
+                "type": "crafting",
+                "value": "\"Tortoise shell would be able to provide a low-viable (0",
+                "threshold": 0.34
+            }
+        ]
+    },
+    {
+        "name": "User 38881",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.11
+            },
+            {
+                "type": "gaming",
+                "value": "you start with a set of settings that have been tweaked to make them perform as they should",
+                "threshold": 0.59
+            }
+        ]
+    },
+    {
+        "name": "User 19412",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.55
+            },
+            {
+                "type": "home improvement",
+                "value": "Saying, \"You're on Google Now",
+                "threshold": 0.43
+            },
+            {
+                "type": "pets",
+                "value": "~~ a wild breed that was bred with a \"highbred\" companion that also had a \"highbred\" personality",
+                "threshold": 0.85
+            },
+            {
+                "type": "gaming",
+                "value": "A game in which there's no other place to spend your money but your mind",
+                "threshold": 0.43
+            }
+        ]
+    },
+    {
+        "name": "User 13940",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.92
+            },
+            {
+                "type": "dance",
+                "value": "play a round of rounds with a big stick, or a big dance in a park with a group of people",
+                "threshold": 0.15
+            },
+            {
+                "type": "theater",
+                "value": "* [T]he entire genre is based around the individual characters, rather than the overarching story",
+                "threshold": 0.07
+            }
+        ]
+    },
+    {
+        "name": "User 37449",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.75
+            },
+            {
+                "type": "gaming",
+                "value": "\"If only there were more computers\"",
+                "threshold": 1.0
+            },
+            {
+                "type": "art",
+                "value": "the human imagination will often find something new, perhaps even more interesting",
+                "threshold": 0.48
+            }
+        ]
+    },
+    {
+        "name": "User 96992",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.48
+            },
+            {
+                "type": "instrument",
+                "value": "The\u00a0M1A in this case being only the only true \u00a0mammotarm, and the",
+                "threshold": 0.92
+            }
+        ]
+    },
+    {
+        "name": "User 9314",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.69
+            },
+            {
+                "type": "health",
+                "value": "In the event your life becomes ill, your health is a factor in that life and if you start getting",
+                "threshold": 0.82
+            },
+            {
+                "type": "podcasts",
+                "value": "a few weeks a week, a few years",
+                "threshold": 0.03
+            }
+        ]
+    },
+    {
+        "name": "User 59716",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.18
+            },
+            {
+                "type": "podcasts",
+                "value": "It's a good time to write something that you can publish or to find something that makes you interested",
+                "threshold": 0.23
+            },
+            {
+                "type": "comics",
+                "value": "\"Slaverine \u00a0in the desert",
+                "threshold": 0.23
+            },
+            {
+                "type": "comics",
+                "value": "A realistic depiction of what is or isn't possible",
+                "threshold": 0.14
+            }
+        ]
+    },
+    {
+        "name": "User 1242",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.16
+            },
+            {
+                "type": "spirituality",
+                "value": "\"I don't care about anything",
+                "threshold": 0.65
+            }
+        ]
+    },
+    {
+        "name": "User 82804",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.08
+            },
+            {
+                "type": "podcasts",
+                "value": "-\u00a0 A Podcast for Everyone\nAnd with that, let's get started! Let's get started! Now",
+                "threshold": 0.49
+            },
+            {
+                "type": "spirituality",
+                "value": "a community of people like me who seek out truth, who seek to reach out to the outside world in hopes",
+                "threshold": 0.84
+            },
+            {
+                "type": "comics",
+                "value": "Doom at a distance, at dawn, in night or on a cold darkening day, etc",
+                "threshold": 0.63
+            },
+            {
+                "type": "fitness",
+                "value": "",
+                "threshold": 0.26
+            }
+        ]
+    },
+    {
+        "name": "User 31954",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.18
+            },
+            {
+                "type": "volunteering",
+                "value": "1) To work with the people who are working under your direction but not who you are helping support",
+                "threshold": 0.37
+            },
+            {
+                "type": "fitness",
+                "value": "a man who would have enjoyed life with a wife, daughters and sons",
+                "threshold": 0.88
+            },
+            {
+                "type": "food",
+                "value": "(i) the edible grain, (ii) the vegetable or fruit, (iii) the meal used or",
+                "threshold": 0.12
+            },
+            {
+                "type": "spirituality",
+                "value": "(a) a non-religious world in which there are no supernatural beings",
+                "threshold": 0.66
+            }
+        ]
+    },
+    {
+        "name": "User 45793",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.55
+            },
+            {
+                "type": "environment",
+                "value": "a large house, a courtyard, a garden, a lake or an open room\u2014a lot of different things",
+                "threshold": 0.5
+            },
+            {
+                "type": "hobby",
+                "value": "\" \u00a0- \"I would like something for a baby to play with with!\"\u00a0\nNo!",
+                "threshold": 0.69
+            },
+            {
+                "type": "crafting",
+                "value": "DAMAGE = 2 ; \u00a0TECPLITE = 3",
+                "threshold": 0.46
+            },
+            {
+                "type": "science",
+                "value": "(1) to show that a molecule can be made so much faster (by a fraction) (2)",
+                "threshold": 0.49
+            }
+        ]
+    },
+    {
+        "name": "User 80790",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.99
+            },
+            {
+                "type": "instrument",
+                "value": "a tiny little piece of scrap metal - like a paintbrush",
+                "threshold": 0.06
+            }
+        ]
+    },
+    {
+        "name": "User 47945",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.41
+            },
+            {
+                "type": "science",
+                "value": "ive seen many birds and mammals that were extinct in the past few millennia",
+                "threshold": 0.22
+            }
+        ]
+    },
+    {
+        "name": "User 99936",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.09
+            },
+            {
+                "type": "crafting",
+                "value": "I could craft anything I wanted, and this sounds easy, but it's not",
+                "threshold": 0.36
+            },
+            {
+                "type": "comics",
+                "value": "He is a person with a very short life, but no friends",
+                "threshold": 0.03
+            },
+            {
+                "type": "comics",
+                "value": "A person who is not in prison but is in a lot of pain",
+                "threshold": 0.64
+            },
+            {
+                "type": "collecting",
+                "value": "a collection of all objects in a sequence",
+                "threshold": 0.76
+            }
+        ]
+    },
+    {
+        "name": "User 76940",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.37
+            },
+            {
+                "type": "writing",
+                "value": "\"It's going to be too much for one man and a very small community",
+                "threshold": 0.51
+            },
+            {
+                "type": "photography",
+                "value": "If I had my camera and started shooting, I would go to the shop and buy an old DSLR or",
+                "threshold": 0.59
+            },
+            {
+                "type": "dance",
+                "value": "A big dance that has a big part in the success of those who choose the dance to get it",
+                "threshold": 0.72
+            },
+            {
+                "type": "fashion",
+                "value": "\"If you need your skin and hair to look better without taking a hit, you don't need to shave",
+                "threshold": 0.82
+            }
+        ]
+    },
+    {
+        "name": "User 94078",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.02
+            },
+            {
+                "type": "hobby",
+                "value": "piloting and shooting up to 100 different things on a budget",
+                "threshold": 0.02
+            },
+            {
+                "type": "spirituality",
+                "value": "(1) a way to explore the world around us without using our own brains, or (2) a",
+                "threshold": 0.84
+            }
+        ]
+    },
+    {
+        "name": "User 39230",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.92
+            },
+            {
+                "type": "environment",
+                "value": "a\u00a0beautiful\u00a0bordering\u00a0world filled with life",
+                "threshold": 0.62
+            },
+            {
+                "type": "instrument",
+                "value": "a small, relatively large electronic cigarette, or a small handheld device with a large size that could be used as",
+                "threshold": 0.06
+            },
+            {
+                "type": "writing",
+                "value": "\"The only one left in the world that is a good writing is if it's not good enough at all",
+                "threshold": 0.32
+            },
+            {
+                "type": "music",
+                "value": "I'd love to hear anyone's favourite, or even favourite album cover",
+                "threshold": 0.32
+            }
+        ]
+    },
+    {
+        "name": "User 88285",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.92
+            },
+            {
+                "type": "history",
+                "value": "the USSR, Iran, South Vietnam, Cambodia and Thailand's involvement in the early decades, although that all have",
+                "threshold": 0.01
+            },
+            {
+                "type": "science",
+                "value": "The Earth is in fact an arctic with a natural greenhouse effect, rather than a methane greenhouse effect",
+                "threshold": 0.89
+            },
+            {
+                "type": "dance",
+                "value": "???????????????????????????????????????????",
+                "threshold": 0.3
+            }
+        ]
+    },
+    {
+        "name": "User 95485",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.13
+            },
+            {
+                "type": "politics",
+                "value": "Do you want to run as a Republican, or a Democrat? A reasonable politician could be:\u00a0\u00a0Support",
+                "threshold": 0.61
+            }
+        ]
+    },
+    {
+        "name": "User 99614",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.56
+            },
+            {
+                "type": "art",
+                "value": "A real and honest depiction of the reality of living the dream",
+                "threshold": 0.52
+            }
+        ]
+    },
+    {
+        "name": "User 46280",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.89
+            },
+            {
+                "type": "fitness",
+                "value": "1) 5-7 years old\n2) 4~7 years old",
+                "threshold": 0.11
+            },
+            {
+                "type": "pets",
+                "value": "a baby cat with a tiny baby whisker, a kitten and small kittens",
+                "threshold": 0.53
+            },
+            {
+                "type": "finance",
+                "value": "An estimate that the cost of raising the federal minimum wage would be $5 an hour or more, and a",
+                "threshold": 0.91
+            },
+            {
+                "type": "technology",
+                "value": "a supercomputer capable of crunching through all kinds of data and processing in a single second or even millions of",
+                "threshold": 0.13
+            }
+        ]
+    },
+    {
+        "name": "User 36958",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.53
+            },
+            {
+                "type": "spirituality",
+                "value": "(1) an act of prayer\nThis might not sound like a lot of effort, but it is",
+                "threshold": 0.95
+            },
+            {
+                "type": "collecting",
+                "value": "1) collecting some cool stuff like some kind of armor or something (or something similar) that is basically an",
+                "threshold": 0.46
+            }
+        ]
+    },
+    {
+        "name": "User 81294",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.46
+            },
+            {
+                "type": "music",
+                "value": "You want something out there, you want it to feel special",
+                "threshold": 0.57
+            },
+            {
+                "type": "gaming",
+                "value": "Game of Thrones: A Fantasy Novel, one of the best novels of the 21st century, a fantasy novel",
+                "threshold": 0.82
+            },
+            {
+                "type": "music",
+                "value": "- \u00a0Music sounds and sounds",
+                "threshold": 0.07
+            }
+        ]
+    },
+    {
+        "name": "User 70715",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.49
+            },
+            {
+                "type": "movies",
+                "value": "For those who don't know, my filmography involves film, art, poetry, drama, musical and a",
+                "threshold": 0.82
+            },
+            {
+                "type": "crafting",
+                "value": "~~ I could make the same items in the same spot with more than one hand ~~ I could craft stuff in",
+                "threshold": 0.17
+            },
+            {
+                "type": "cooking",
+                "value": "a hot pot, then cold water (and then a heavy metal bar)",
+                "threshold": 0.59
+            },
+            {
+                "type": "movies",
+                "value": "A real one could be the work of the original or a fake",
+                "threshold": 0.13
+            }
+        ]
+    },
+    {
+        "name": "User 71770",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.22
+            },
+            {
+                "type": "theater",
+                "value": "An ensemble that combines genres with a clear focus on story",
+                "threshold": 0.84
+            },
+            {
+                "type": "health",
+                "value": "Trying to prevent cancer, or possibly for one, in the first place, or maybe having the most stable",
+                "threshold": 0.08
+            }
+        ]
+    },
+    {
+        "name": "User 22528",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.68
+            },
+            {
+                "type": "home improvement",
+                "value": "A full scale model of the house with all that new roof or furnishings",
+                "threshold": 0.72
+            },
+            {
+                "type": "food",
+                "value": "(4)\u00a0 food based on how it will taste but I'd like to think that there are other things",
+                "threshold": 0.11
+            },
+            {
+                "type": "podcasts",
+                "value": "1 \u00a0 Brought to you by Amazon's Kindle e-reader\n2 \u00a0 A new podcast could get you",
+                "threshold": 0.74
+            }
+        ]
+    },
+    {
+        "name": "User 87121",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.8
+            },
+            {
+                "type": "outdoor activities",
+                "value": "being able to jump the mountains",
+                "threshold": 0.61
+            },
+            {
+                "type": "science",
+                "value": "The whole universe does not exist because of its laws",
+                "threshold": 0.8
+            }
+        ]
+    },
+    {
+        "name": "User 1491",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.24
+            },
+            {
+                "type": "politics",
+                "value": "(a) the candidate from every possible constituency had no chance of getting a majority of voters in all five seats",
+                "threshold": 0.33
+            },
+            {
+                "type": "finance",
+                "value": "A realistic government might not make taxes too low so that we all go and get rich on good terms",
+                "threshold": 0.01
+            },
+            {
+                "type": "politics",
+                "value": "Feminists, too",
+                "threshold": 0.55
+            },
+            {
+                "type": "instrument",
+                "value": "using a low pressure vacuum (or an equivalent for air pressure) to create the \"drowning-pool",
+                "threshold": 0.25
+            }
+        ]
+    },
+    {
+        "name": "User 7283",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.79
+            },
+            {
+                "type": "cooking",
+                "value": "It would be like cooking a dog but with the help of a cat or a turtle",
+                "threshold": 0.66
+            },
+            {
+                "type": "comics",
+                "value": "1-3, but the majority of them are in the form of a collection of a dozen of your favourites",
+                "threshold": 0.19
+            },
+            {
+                "type": "art",
+                "value": "a small, but effective design to help the characters do their jobs, rather than showing off a large, but",
+                "threshold": 0.17
+            },
+            {
+                "type": "food",
+                "value": "Mild sodium, low starch, whole grain or whole grain meal",
+                "threshold": 0.75
+            }
+        ]
+    },
+    {
+        "name": "User 13178",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.26
+            },
+            {
+                "type": "fashion",
+                "value": "A new, more realistic way of looking at the past",
+                "threshold": 0.13
+            },
+            {
+                "type": "politics",
+                "value": "All of this might sound like a very smart, progressive and fun run",
+                "threshold": 0.82
+            },
+            {
+                "type": "dance",
+                "value": "I'd like to take a close look and experience it",
+                "threshold": 0.78
+            },
+            {
+                "type": "movies",
+                "value": "an American and a Canadian movie,\u00a0and a French and a British movie",
+                "threshold": 0.54
+            }
+        ]
+    },
+    {
+        "name": "User 77202",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.03
+            },
+            {
+                "type": "writing",
+                "value": "\"Hey, you gotta understand that in every piece of fiction (whatever that is, I'm a sucker for",
+                "threshold": 0.85
+            }
+        ]
+    },
+    {
+        "name": "User 62477",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.73
+            },
+            {
+                "type": "volunteering",
+                "value": "a volunteer who is active in a local, or regional cause, who could share information about the community to serve",
+                "threshold": 0.37
+            },
+            {
+                "type": "history",
+                "value": "It began with the collapse of the Soviet Union, with the collapse of communism",
+                "threshold": 0.57
+            },
+            {
+                "type": "theater",
+                "value": "a film theater that offers unique content for customers to use as a backdrop or backdrop and then provide their own setting",
+                "threshold": 0.8
+            },
+            {
+                "type": "fitness",
+                "value": "If you're not too worried about your feet (the ones in the chest) you should make sure your heels",
+                "threshold": 0.14
+            }
+        ]
+    },
+    {
+        "name": "User 59048",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.64
+            },
+            {
+                "type": "sport",
+                "value": "Hockey or a basketball game",
+                "threshold": 0.27
+            },
+            {
+                "type": "fashion",
+                "value": "Dress in a dress and keep it a little more feminine; \u00a0dress at home at night;",
+                "threshold": 0.34
+            },
+            {
+                "type": "health",
+                "value": "The longer it takes, the less likely you are to live in depression",
+                "threshold": 0.52
+            },
+            {
+                "type": "environment",
+                "value": "a few feet up (so far on an oval wall), an office building with no ceiling, a small kitchen",
+                "threshold": 0.58
+            }
+        ]
+    },
+    {
+        "name": "User 75949",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.01
+            },
+            {
+                "type": "health",
+                "value": "1 or more meals per day",
+                "threshold": 0.9
+            },
+            {
+                "type": "dance",
+                "value": "\u00c2 the sound of the waves washing into the wind",
+                "threshold": 0.37
+            }
+        ]
+    },
+    {
+        "name": "User 87069",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.08
+            },
+            {
+                "type": "food",
+                "value": "a dish that you order from a vendor who is friendly but there is still the need to put the piece on",
+                "threshold": 0.46
+            }
+        ]
+    },
+    {
+        "name": "User 88246",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.25
+            },
+            {
+                "type": "crafting",
+                "value": "The tool box",
+                "threshold": 0.22
+            }
+        ]
+    },
+    {
+        "name": "User 53620",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.11
+            },
+            {
+                "type": "travel",
+                "value": "* The journey would be by bicycle",
+                "threshold": 0.78
+            },
+            {
+                "type": "instrument",
+                "value": "a ball-shaped rotating ball-shaped hole",
+                "threshold": 0.53
+            },
+            {
+                "type": "art",
+                "value": "A more realistic aesthetic",
+                "threshold": 0.05
+            }
+        ]
+    },
+    {
+        "name": "User 28502",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.66
+            },
+            {
+                "type": "podcasts",
+                "value": "An idea that we had to create",
+                "threshold": 0.52
+            },
+            {
+                "type": "instrument",
+                "value": "\u00c2 \"A machine in which \u00c2 \u00c2 water is poured into \u00c2 \u00c2 \u00c2 bubbles",
+                "threshold": 0.05
+            }
+        ]
+    },
+    {
+        "name": "User 44602",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.65
+            },
+            {
+                "type": "art",
+                "value": "How could the characters behave and all these subtle touches so subtle? The other way \u00a0is\u00a0simply",
+                "threshold": 0.49
+            },
+            {
+                "type": "writing",
+                "value": "Not only is the real thing a great writer, it can write in real writing! \u00a0You need to",
+                "threshold": 0.71
+            }
+        ]
+    },
+    {
+        "name": "User 22526",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.62
+            },
+            {
+                "type": "crafting",
+                "value": "You need more time to get things done in your first place, right? What about it? With a minimal",
+                "threshold": 0.8
+            },
+            {
+                "type": "environment",
+                "value": "[nearly] 10 times bigger and better, with 2D visuals that will go down with any game,",
+                "threshold": 0.58
+            }
+        ]
+    },
+    {
+        "name": "User 46980",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.61
+            },
+            {
+                "type": "movies",
+                "value": "Treaters and other short films",
+                "threshold": 0.7
+            },
+            {
+                "type": "theater",
+                "value": "You watch a long movie, and you see an object floating through the space",
+                "threshold": 0.52
+            }
+        ]
+    },
+    {
+        "name": "User 30785",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.57
+            },
+            {
+                "type": "writing",
+                "value": "\"Haha, you can write \"sideshow characters\", or, \"This girl could be called \"",
+                "threshold": 0.68
+            }
+        ]
+    },
+    {
+        "name": "User 67180",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.9
+            },
+            {
+                "type": "spirituality",
+                "value": "a feeling of a greater sense of purpose within self being, or of a kind of spiritual power or power to",
+                "threshold": 0.49
+            },
+            {
+                "type": "movies",
+                "value": "the original, the remake, and even \"W",
+                "threshold": 0.44
+            },
+            {
+                "type": "instrument",
+                "value": "a small, unobtrusive device that can measure the distance between two objects like an optical disc (or camera",
+                "threshold": 0.07
+            },
+            {
+                "type": "instrument",
+                "value": "\u0183",
+                "threshold": 0.57
+            }
+        ]
+    },
+    {
+        "name": "User 6385",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.58
+            },
+            {
+                "type": "finance",
+                "value": "buy a house, buy a car and pay for a life coaching job",
+                "threshold": 0.46
+            }
+        ]
+    },
+    {
+        "name": "User 26190",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.48
+            },
+            {
+                "type": "collecting",
+                "value": "\"If one needs to catch a comet there is no question about the quality of its surface and gravity",
+                "threshold": 0.41
+            },
+            {
+                "type": "podcasts",
+                "value": "__________________Last edited by jonq; 11-13-2016 at 16:57 PM",
+                "threshold": 0.13
+            }
+        ]
+    },
+    {
+        "name": "User 45487",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.76
+            },
+            {
+                "type": "fitness",
+                "value": "-1\u00a05 days a week",
+                "threshold": 0.39
+            },
+            {
+                "type": "volunteering",
+                "value": "A person with a sense of adventure who cares about others",
+                "threshold": 0.11
+            },
+            {
+                "type": "fashion",
+                "value": "wear a little less expensive-looking clothing",
+                "threshold": 0.11
+            },
+            {
+                "type": "art",
+                "value": "a small but solid world, but at least I didn't want to lose it because of it! What about",
+                "threshold": 0.7
+            }
+        ]
+    },
+    {
+        "name": "User 27097",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.23
+            },
+            {
+                "type": "hobby",
+                "value": "making, manufacturing, and selling \u00a0machine parts",
+                "threshold": 0.44
+            }
+        ]
+    },
+    {
+        "name": "User 32889",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.35
+            },
+            {
+                "type": "art",
+                "value": "Friede's image will not have been found",
+                "threshold": 0.52
+            }
+        ]
+    },
+    {
+        "name": "User 49914",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.71
+            },
+            {
+                "type": "volunteering",
+                "value": "we're talking a full time worker in a small town here, with 3 days of work a week, a",
+                "threshold": 0.41
+            },
+            {
+                "type": "finance",
+                "value": "An affordable home is one way to be productive, creative, and self-sufficient",
+                "threshold": 0.39
+            },
+            {
+                "type": "sport",
+                "value": "How to get to the top of the world? \u00a0But is it any better than trying to win the",
+                "threshold": 0.76
+            },
+            {
+                "type": "food",
+                "value": "A food where you eat stuff to give something back to the planet, or it could be something else",
+                "threshold": 0.18
+            }
+        ]
+    },
+    {
+        "name": "User 82066",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.6
+            },
+            {
+                "type": "movies",
+                "value": "A film not so much about how to love you as what to hate",
+                "threshold": 0.96
+            }
+        ]
+    },
+    {
+        "name": "User 38787",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Germany",
+                "threshold": 0.17
+            },
+            {
+                "type": "health",
+                "value": "You could be ill for weeks and months",
+                "threshold": 0.08
+            },
+            {
+                "type": "technology",
+                "value": "providing more of an artificial intelligence platform while still delivering the high-performance, user-friendly interface of a",
+                "threshold": 0.77
+            }
+        ]
+    },
+    {
+        "name": "User 10003",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.76
+            },
+            {
+                "type": "science",
+                "value": "A realistic world could produce a much more realistic world",
+                "threshold": 0.03
+            },
+            {
+                "type": "spirituality",
+                "value": "a way that could change reality to suit its needs",
+                "threshold": 0.74
+            }
+        ]
+    },
+    {
+        "name": "User 97840",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.08
+            },
+            {
+                "type": "comics",
+                "value": "A non-traditional sci-fi comic or a simple comic strip and a non-traditional superhero comic or any",
+                "threshold": 0.97
+            },
+            {
+                "type": "music",
+                "value": "\u300eKyouko ni Kyouko wihi\u300f(Lamb of the Moon), \u5bf9\ufffd",
+                "threshold": 0.15
+            }
+        ]
+    },
+    {
+        "name": "User 43103",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.61
+            },
+            {
+                "type": "photography",
+                "value": "an interactive experience with a fully immersive look across a range of backgrounds\nThis is the \"photo experience\" that",
+                "threshold": 0.29
+            },
+            {
+                "type": "music",
+                "value": "The bass is too low and the drums is too shallow and repetitive to be meaningful",
+                "threshold": 0.69
+            },
+            {
+                "type": "politics",
+                "value": "To win or not to win, a party wins",
+                "threshold": 0.47
+            }
+        ]
+    },
+    {
+        "name": "User 56237",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.02
+            },
+            {
+                "type": "music",
+                "value": "Mortal Kombat 6",
+                "threshold": 0.61
+            },
+            {
+                "type": "volunteering",
+                "value": "A guy from the US is going to be working with an organization that makes toys, toys that are easy to",
+                "threshold": 0.81
+            },
+            {
+                "type": "cooking",
+                "value": "Heat up the grill of your favorite grill first",
+                "threshold": 0.85
+            },
+            {
+                "type": "art",
+                "value": "(a) constructed from several sources for its own sake (for example, or rather, a combination of one",
+                "threshold": 0.88
+            }
+        ]
+    },
+    {
+        "name": "User 41191",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.16
+            },
+            {
+                "type": "literature",
+                "value": "an examination of the literature on \"solo music\", the various influences (if any) of music and the",
+                "threshold": 0.85
+            },
+            {
+                "type": "instrument",
+                "value": "a computer-controlled 'joker', or 'puzzle'",
+                "threshold": 0.93
+            },
+            {
+                "type": "politics",
+                "value": "A policy that makes sense in one moment, while not happening in the next, can provide a real solution to",
+                "threshold": 0.79
+            },
+            {
+                "type": "fashion",
+                "value": "Miguel Armasque's\u00a0 book called\u00a0 La Ronde \u00a0(1999) is a book",
+                "threshold": 0.94
+            }
+        ]
+    },
+    {
+        "name": "User 58872",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.34
+            },
+            {
+                "type": "movies",
+                "value": "a thriller in which the heroes kill off other characters (and others) just so a single person could keep things",
+                "threshold": 0.07
+            },
+            {
+                "type": "technology",
+                "value": "A game that controls robots and not-humans, or a game which only provides players and their environment with tools",
+                "threshold": 0.36
+            },
+            {
+                "type": "gaming",
+                "value": "that is, there is no point in taking that much time out of your day to play online content",
+                "threshold": 0.14
+            },
+            {
+                "type": "literature",
+                "value": "\"An experimental novel of some sort is not enough for all authors to enjoy such fame if they have to carry",
+                "threshold": 0.93
+            }
+        ]
+    },
+    {
+        "name": "User 64496",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Italy",
+                "threshold": 0.61
+            },
+            {
+                "type": "fashion",
+                "value": "It would be fun for some men to get into the shape and perform as the ladies do and maybe get them",
+                "threshold": 0.29
+            },
+            {
+                "type": "environment",
+                "value": "1st-level enemies making up a large majority of the first five floors, with a few more, making",
+                "threshold": 0.48
+            }
+        ]
+    },
+    {
+        "name": "User 4803",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Canada",
+                "threshold": 0.24
+            },
+            {
+                "type": "photography",
+                "value": "the result is\u00a0photography that is simple, fun, and very efficient",
+                "threshold": 0.24
+            },
+            {
+                "type": "history",
+                "value": "You can't find another American sports team anywhere else",
+                "threshold": 0.26
+            },
+            {
+                "type": "sport",
+                "value": "How much a man could lose by wearing a sports shirt and tie, or by taking a knee and telling a",
+                "threshold": 0.42
+            },
+            {
+                "type": "art",
+                "value": "a place called the Grand Mosque (the \"Grand Mosque\"), where you can observe peace and tranquillity",
+                "threshold": 0.11
+            }
+        ]
+    },
+    {
+        "name": "User 63048",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.1
+            },
+            {
+                "type": "science",
+                "value": "To use the computer's computational capabilities to infer a probability of 1%\nOne of the key problems in our",
+                "threshold": 0.41
+            },
+            {
+                "type": "movies",
+                "value": "\"Crazy Train\" or \"M",
+                "threshold": 0.56
+            }
+        ]
+    },
+    {
+        "name": "User 74315",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United States",
+                "threshold": 0.12
+            },
+            {
+                "type": "environment",
+                "value": "An active state that makes it useful for the human or animal in its natural state, and if it gets activated",
+                "threshold": 0.81
+            },
+            {
+                "type": "volunteering",
+                "value": "(1) a single person who works at a charity with whom they engage, whether professionally or individually (or",
+                "threshold": 0.13
+            },
+            {
+                "type": "comics",
+                "value": "__________\n\nA funny comic (or at least, comic that you can relate to) that really made some",
+                "threshold": 0.46
+            }
+        ]
+    },
+    {
+        "name": "User 33675",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.96
+            },
+            {
+                "type": "dance",
+                "value": "\"I want to do something as mundane as dressing down and doing a bit of a dress in as many directions",
+                "threshold": 0.45
+            },
+            {
+                "type": "writing",
+                "value": "(If something as in the case of The Hunger Games) \u00a0A written language is one that exists for",
+                "threshold": 1.0
+            },
+            {
+                "type": "writing",
+                "value": "that we want to let it run as efficiently as possible, and that we want it to run as fast as",
+                "threshold": 0.99
+            }
+        ]
+    },
+    {
+        "name": "User 12102",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Japan",
+                "threshold": 0.68
+            },
+            {
+                "type": "pets",
+                "value": "~~~~~~~~~~~~~~~~~\nThe more you love, the more you can love: ~~~~~~~~~~~~~~~~~~~\nIn short: 1",
+                "threshold": 0.06
+            },
+            {
+                "type": "pets",
+                "value": "- \u00a0a miniature dog,\u00a0 \u00a0a small mammal or some type of insect, \u00a0a",
+                "threshold": 0.7
+            },
+            {
+                "type": "finance",
+                "value": "A small amount is too much to invest in an emerging market",
+                "threshold": 0.02
+            }
+        ]
+    },
+    {
+        "name": "User 51000",
+        "interests": [
+            {
+                "type": "country",
+                "value": "United Kingdom",
+                "threshold": 0.63
+            },
+            {
+                "type": "hobby",
+                "value": "Making use of the available space-time, creating an image on a surface, and then creating an animation from",
+                "threshold": 0.65
+            }
+        ]
+    },
+    {
+        "name": "User 25831",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.79
+            },
+            {
+                "type": "movies",
+                "value": "a dark, futuristic setting, a post-apocalyptic setting, a medieval setting, or a futuristic sci-",
+                "threshold": 0.45
+            }
+        ]
+    },
+    {
+        "name": "User 19878",
+        "interests": [
+            {
+                "type": "country",
+                "value": "Brazil",
+                "threshold": 0.84
+            },
+            {
+                "type": "music",
+                "value": "a new word or \"sound",
+                "threshold": 0.41
+            },
+            {
+                "type": "collecting",
+                "value": "-- \u00a0\u00a0\u00a0\n\u2022 \u00a0\u00a0\u00a0\n\u00a0 \u00a0\u00a0\n\u2022 \u00a0\u00a0\u00a0\n\u00a0 \u00a0\u00a0\nA nice trick to do this",
+                "threshold": 0.51
+            },
+            {
+                "type": "volunteering",
+                "value": "(1) giving up your job, in order to help out a new client",
+                "threshold": 0.8
+            },
+            {
+                "type": "art",
+                "value": "A painting or sculpture as opposed to an actual painting that is made (i",
+                "threshold": 0.96
+            }
+        ]
+    }
+]
